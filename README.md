@@ -27,4 +27,4 @@
 [How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code -maintain-quality-bhargav-murari/)
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
-![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=AutoInfra&show_icons=true)
+<!-- ![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=AutoInfra&show_icons=true) --!>
