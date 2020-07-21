@@ -1,4 +1,4 @@
-### I'm Bhargav Murari aka The 90's Kid
+### Hi, I'm Bhargav Murari
 
 ## Tools And Technologies I've Worked On
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Technologies.png)
