@@ -15,16 +15,16 @@
 ## Framework I am Currently Building
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
 
-###If you've read this far, do connect with me on:  
+###  You have came this far, do connect with me on:  
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](www.linkedin.com/in/bhargavmurari)  
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://linkedin.com/in/bhargavmurari)  
 
 ![image title](https://rushter.com/counter.svg)  
 
 ## Read my blogs here
 
-https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/
-
-https://www.linkedin.com/pulse/test-automation-write-bug-free-code-maintain-quality-bhargav-murari/
+[How To Achieve Machine Learning With Automation](https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/)
+[How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code -maintain-quality-bhargav-murari/)
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
+![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=AutoInfra&show_icons=true)
