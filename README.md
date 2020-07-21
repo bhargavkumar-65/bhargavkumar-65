@@ -28,3 +28,4 @@
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
 <!-- ![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=AutoInfra&show_icons=true) --!>
+[![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65)](https://github.com/AutoInfra/AutoInfra)
