@@ -13,7 +13,7 @@
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Certs.PNG)
 
 ## Framework I am Currently Building
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
 
 ###If you've read this far, do connect with me on:  
 
