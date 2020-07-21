@@ -27,5 +27,4 @@ https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhar
 
 https://www.linkedin.com/pulse/test-automation-write-bug-free-code-maintain-quality-bhargav-murari/
 
-[![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65)](https://github.com/bhargavkumar-65/github-readme-stats)
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
