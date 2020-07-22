@@ -12,8 +12,9 @@
  ## Technical Certifications
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Certs.PNG)
 
-## Framework I am Currently Building
+## Frameworks I am Currently Building
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=NightWatchExercise)](https://github.com/bhargavkumar-65/NightWatchExercise)
 
 ###  You have came this far, do connect with me on:  
 
@@ -27,4 +28,4 @@
 [How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code -maintain-quality-bhargav-murari/)
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
+
