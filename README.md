@@ -16,11 +16,9 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=NightWatchExercise)](https://github.com/bhargavkumar-65/NightWatchExercise)
 
-###  You have came this far, do connect with me on:  
+###  You have come this far, do connect with me on:  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://linkedin.com/in/bhargavmurari)  
-
-![image title](https://rushter.com/counter.svg)  
 
 ## Read my Recent Articles here
 
