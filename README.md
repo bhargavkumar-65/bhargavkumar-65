@@ -21,11 +21,10 @@
 
 ![image title](https://rushter.com/counter.svg)  
 
-## Read my blogs here
+## Read my Recent Articles here
 
 [How To Achieve Machine Learning With Automation](https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/)
 [How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code -maintain-quality-bhargav-murari/)
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
-<!-- ![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=AutoInfra&show_icons=true) --!>
-[![AutoInfra's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65)](https://github.com/AutoInfra/AutoInfra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
