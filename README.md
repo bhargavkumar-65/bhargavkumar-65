@@ -13,7 +13,7 @@
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Certs.PNG)
 
 ## Frameworks I am Currently Building
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=AutoInfra)](https://github.com/AutoInfra/AutoInfra)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=SeleniumFramework)](https://github.com/AutoInfra/SeleniumFramework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=NightWatchExercise)](https://github.com/bhargavkumar-65/NightWatchExercise)
 
 ###  You have come this far, do connect with me on:  
