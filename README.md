@@ -16,15 +16,17 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=SeleniumFramework)](https://github.com/AutoInfra/SeleniumFramework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=NightWatchExercise)](https://github.com/bhargavkumar-65/NightWatchExercise)
 
-###  You have come this far, do connect with me on:  
+###  Do connect with me on:  
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://linkedin.com/in/bhargavmurari)  
 
-## Read my Recent Articles here
+📕 **Latest Articles**
 
 [How To Achieve Machine Learning With Automation](https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/)
 
 [How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code-maintain-quality-bhargav-murari/)
+[Stream Test Results To PowerBI](https://www.linkedin.com/pulse/stream-test-results-powerbi-watch-live-from-mobile-app-bhargav-murari/)
+[Run Selenium Tests in AzureDevOps](https://www.linkedin.com/pulse/run-selenium-tests-azuredevops-bhargav-murari)
 
 ![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
 
