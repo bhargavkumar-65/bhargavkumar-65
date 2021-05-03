@@ -16,6 +16,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=SeleniumFramework)](https://github.com/AutoInfra/SeleniumFramework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=NightWatchExercise)](https://github.com/bhargavkumar-65/NightWatchExercise)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=PlaywrightJava)](https://github.com/AutoInfra/PlaywrightJava)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=HealeniumTestng)](https://github.com/AutoInfra/HealeniumTestng)
 
 
 ###  Do connect with me on:  
