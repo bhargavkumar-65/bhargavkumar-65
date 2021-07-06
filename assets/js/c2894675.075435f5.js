@@ -1,0 +1,1 @@
+(self.webpackChunkauto_infra=self.webpackChunkauto_infra||[]).push([[695],{3921:function(a){"use strict";a.exports=JSON.parse('{"permalink":"/bhargavkumar-65/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
