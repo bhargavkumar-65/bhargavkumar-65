@@ -1,1 +1,0 @@
-(self.webpackChunkauto_infra=self.webpackChunkauto_infra||[]).push([[535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/bhargavkumar-65/blog/welcome"},{"title":"Hello","permalink":"/bhargavkumar-65/blog/hello-world"},{"title":"Hola","permalink":"/bhargavkumar-65/blog/hola"}]}')}}]);

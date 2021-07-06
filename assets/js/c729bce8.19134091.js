@@ -1,1 +1,0 @@
-(self.webpackChunkauto_infra=self.webpackChunkauto_infra||[]).push([[825],{8545:function(a){"use strict";a.exports=JSON.parse('{"allTagsPath":"/bhargavkumar-65/blog/tags","slug":"hello","name":"hello","count":2,"permalink":"/bhargavkumar-65/blog/tags/hello"}')}}]);
