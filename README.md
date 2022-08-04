@@ -26,28 +26,3 @@
 📕 **Latest Articles**
 
 [Blog Link](https://autoinfra.github.io/home/)
-
-[How To Achieve Machine Learning With Automation](https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/)
-
-[How To Achieve Code Quality With Automation](https://www.linkedin.com/pulse/test-automation-write-bug-free-code-maintain-quality-bhargav-murari/)
-
-[Stream Test Results To PowerBI](https://www.linkedin.com/pulse/stream-test-results-powerbi-watch-live-from-mobile-app-bhargav-murari/)
-
-[Run Selenium Tests in AzureDevOps](https://www.linkedin.com/pulse/run-selenium-tests-azuredevops-bhargav-murari)
-
-[Advanced RestAssured Logging In Allure](https://www.linkedin.com/pulse/advanced-restassured-logging-allure-reportusing-class-bhargav-murari/)
-
-[Advanced RestAssured Logging in ExtentReports](https://www.linkedin.com/pulse/advanced-restassured-logging-extentreports-using-class-bhargav-murari/)
-
-[Automate SOAP APIs using RestAssured	Test Automation](https://www.linkedin.com/pulse/automate-soap-apis-using-restassured-bhargav-murari/)
-
-[Run Azure DevOps Pipelines from Mobile](https://www.linkedin.com/posts/bhargavmurari_azuredevops-microsoft-powerapps-activity-6681443971572617216-CLH3/)
-
-[Self-Healing Selenium](https://www.linkedin.com/pulse/self-healing-selenium-healenium-opensource-test-solution-murari/)
-
-[SetUp your own On-Premise Source Code Management tools](https://www.linkedin.com/pulse/setup-your-own-on-premise-source-code-management-tools-bhargav-murari/)
-
-![Bhargav's github stats](https://github-readme-stats.vercel.app/api?username=bhargavkumar-65&show_icons=true)
-
-
-
