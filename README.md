@@ -25,7 +25,7 @@
 
 📕 **Latest Articles**
 
-[Send Your Test Results to Microsoft Teams](https://www.linkedin.com/pulse/send-your-test-results-microsoft-teams-using-bhargav-murari/)
+[Blog Link](https://autoinfra.github.io/home/)
 
 [How To Achieve Machine Learning With Automation](https://www.linkedin.com/pulse/test-automation-how-achieve-machine-learning-bhargav-murari/)
 
