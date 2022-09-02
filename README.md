@@ -1,5 +1,5 @@
 ### Hi, I'm Bhargav Murari
-### Selenium Conf 2022 [Speaker](https://www.youtube.com/watch?v=x4UrkVjXnWA&t=1493s&ab_channel=ConfEngine)
+
 ## Tools And Technologies I've Worked On
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Technologies.png)
 
@@ -16,11 +16,6 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=SeleniumFramework)](https://github.com/AutoInfra/SeleniumFramework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=PlaywrightJava)](https://github.com/AutoInfra/PlaywrightJava)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=HealeniumTestng)](https://github.com/AutoInfra/HealeniumTestng)
-
-
-###  Do connect with me on:  
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://linkedin.com/in/bhargavmurari)  
 
 📕 **Latest Articles**
 
