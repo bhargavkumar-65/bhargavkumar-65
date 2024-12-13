@@ -13,10 +13,10 @@
 ![image](https://github.com/bhargavkumar-65/bhargavkumar-65/blob/master/Certs.PNG)
 
 ## Frameworks I am Currently Building
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=SeleniumFramework)](https://github.com/AutoInfra/SeleniumFramework)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=PlaywrightJava)](https://github.com/AutoInfra/PlaywrightJava)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AutoInfra&repo=HealeniumTestng)](https://github.com/AutoInfra/HealeniumTestng)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=SeleniumFramework)](https://github.com/bhargavkumar-65/SeleniumFramework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=PlaywrightJava)](https://github.com/bhargavkumar-65/PlaywrightJava)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=HealeniumTestng)](https://github.com/bhargavkumar-65/HealeniumTestng)
 
 📕 **Latest Articles**
 
-[Blog Link](https://autoinfra.github.io/home/)
+[Blog Link](https://bhargavmurari.github.io/)
