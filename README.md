@@ -16,7 +16,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=SeleniumFramework)](https://github.com/bhargavkumar-65/SeleniumFramework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=PlaywrightJava)](https://github.com/bhargavkumar-65/PlaywrightJava)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=HealeniumTestng)](https://github.com/bhargavkumar-65/HealeniumTestng)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bhargavkumar-65&repo=playwright-TypeScript)](https://github.com/bhargavkumar-65/playwright-TypeScript)
 
 📕 **Latest Articles**
 
-[Blog Link](https://bhargavmurari.github.io/)
+[Blog Link](https://testingmaster.in/)
